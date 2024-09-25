@@ -1,0 +1,5 @@
+"constant"	"Quarter"	"midseason"
+1	1	0.125
+1	4	0.375
+1	3	0.625
+1	2	0.875

@@ -1,0 +1,2 @@
+"useXsd"	"file"
+"landingerv2"	"C:/Users/floriane/OneDrive - Havforskningsinstituttet/IMR/Paper/Age error matrix/ECA_Mackerel_Otoliths/input/landing/Landing_Mackerel_2022.xml"

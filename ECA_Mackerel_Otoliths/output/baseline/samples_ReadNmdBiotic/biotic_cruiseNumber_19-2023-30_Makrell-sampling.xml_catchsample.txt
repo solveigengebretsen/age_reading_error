@@ -1,0 +1,75 @@
+"missiontype"	"startyear"	"platform"	"missionnumber"	"serialnumber"	"catchsampleid"	"commonname"	"catchcategory"	"catchpartnumber"	"aphia"	"scientificname"	"identification"	"foreignobject"	"sampletype"	"group"	"conservation"	"catchproducttype"	"raisingfactor"	"catchweight"	"catchvolume"	"catchcount"	"abundancecategory"	"sampleproducttype"	"lengthmeasurement"	"lengthsampleweight"	"lengthsamplevolume"	"lengthsamplecount"	"specimensamplecount"	"agesamplecount"	"agingstructure"	"parasite"	"stomach"	"intestine"	"tissuesample"	"samplerecipient"	"catchcomment"
+"19"	2023	"10011"	30	38013	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"23"	NA	"2"	"1"	NA	85000	NA	166765	NA	"1"	"F"	10.194	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38014	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"23"	NA	"2"	"1"	NA	220000	NA	456985	NA	"1"	"F"	11.554	NA	24	24	24	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38015	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	160000	NA	325796	NA	"1"	"F"	9.331	NA	19	19	19	"2"	NA	NA	NA	NA	NA	"Kudoa"
+"19"	2023	"10011"	30	38016	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	130000	NA	341972	NA	"1"	"F"	10.264	NA	27	27	27	"2"	NA	NA	NA	NA	NA	"Kudoa"
+"19"	2023	"10011"	30	38018	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	2e+05	NA	370215	NA	"1"	"F"	11.885	NA	22	22	22	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38019	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	210000	NA	438631	NA	"1"	"F"	10.054	NA	21	21	21	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38020	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	130000	NA	304123	NA	"1"	"F"	10.259	NA	24	24	24	"2"	NA	NA	NA	NA	NA	"Prøven til anisakis"
+"19"	2023	"10011"	30	38021	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	65000	NA	141162	NA	"1"	"F"	12.893	NA	28	28	28	"2"	NA	NA	NA	NA	NA	"Prøven til anisakis "
+"19"	2023	"10011"	30	38022	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	270000	NA	571550	NA	"1"	"F"	11.81	NA	25	25	25	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38023	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	280000	NA	614334	NA	"1"	"F"	12.306	NA	27	27	27	"2"	NA	NA	NA	NA	NA	"kudoa"
+"19"	2023	"10011"	30	38024	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	155000	NA	398266	NA	"1"	"F"	12.454	NA	32	32	32	"2"	NA	NA	NA	NA	NA	"kudoa; Suspekt alder ved lengde på individ med lbh 3"
+"19"	2023	"10011"	30	38024	2	"sild'G07"	"161722.G05"	1	"126417"	NA	NA	NA	NA	NA	"1"	"1"	NA	1000	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38025	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	1	155000	NA	336064	NA	"1"	"F"	8.302	NA	18	18	18	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38026	1	"sild'G07"	"161722.G05"	1	"126417"	NA	NA	NA	NA	NA	"1"	"1"	NA	300	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38026	2	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	1	105000	NA	276108	NA	"1"	"F"	7.986	NA	21	21	21	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38027	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	255000	NA	613394	NA	"1"	"F"	10.393	NA	25	25	25	"2"	NA	NA	NA	NA	NA	"kudoa"
+"19"	2023	"10011"	30	38028	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	475000	NA	1151715	NA	"1"	"F"	5.774	NA	14	14	14	"2"	NA	NA	NA	NA	NA	"kudoa"
+"19"	2023	"10011"	30	38029	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	150000	NA	329349	NA	"1"	"F"	12.297	NA	27	27	27	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38030	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	205000	NA	466584	NA	"1"	"F"	9.666	NA	22	22	22	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38031	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	60000	NA	138527	NA	"1"	"F"	13.427	NA	31	31	31	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38032	1	"sild'G07"	"161722.G05"	1	"126417"	NA	NA	NA	NA	NA	"1"	"1"	NA	500	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38032	2	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	175000	NA	468890	NA	"1"	"F"	6.718	NA	18	18	18	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38033	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	270000	NA	680238	NA	"1"	"F"	9.923	NA	25	25	25	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38034	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	320000	NA	696632	NA	"1"	"F"	7.809	NA	17	17	17	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38035	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	125000	NA	279824	NA	"1"	"F"	13.848	NA	31	31	30	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38035	2	"sild'G07"	"161722.G05"	1	"126417"	NA	NA	NA	NA	NA	"1"	"1"	NA	115000	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38036	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	350000	NA	790282	NA	"1"	"F"	11.072	NA	25	25	25	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38037	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	120000	NA	292826	NA	"1"	"F"	14.343	NA	35	35	35	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38038	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	520000	NA	1110447	NA	"1"	"F"	11.707	NA	25	25	25	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38039	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	460000	NA	1112384	NA	"1"	"F"	15.714	NA	38	38	38	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38040	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	70000	NA	136474	NA	"1"	"F"	6.155	NA	12	12	12	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38041	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	770000	NA	1738320	NA	"1"	"F"	10.188	NA	23	23	23	"2"	NA	NA	NA	NA	NA	"kudoa"
+"19"	2023	"10011"	30	38042	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	160000	NA	415339	NA	"1"	"F"	8.475	NA	22	22	22	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38044	1	"sild'G07"	"161722.G05"	1	"126417"	NA	NA	NA	NA	NA	"2"	"1"	NA	150	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38044	2	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	130000	NA	333191	NA	"1"	"F"	7.023	NA	18	18	18	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38046	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	90000	NA	185667	NA	"1"	"F"	11.149	NA	23	23	23	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38047	1	"sild'G07"	"161722.G05"	1	"126417"	NA	NA	NA	NA	NA	"1"	"1"	NA	150	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38047	2	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	185000	NA	400394	NA	"1"	"F"	10.165	NA	22	22	22	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38048	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	295000	NA	737795	NA	"1"	"F"	9.996	NA	25	25	25	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38049	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	15000	NA	32247	NA	"1"	"F"	14.42	NA	31	31	30	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38050	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	110000	NA	273235	NA	"1"	"F"	9.662	NA	24	24	24	"2"	NA	NA	NA	NA	NA	"kudoa"
+"19"	2023	"10011"	30	38051	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	27000	NA	68666	NA	"1"	"F"	9.437	NA	24	24	24	"2"	NA	NA	NA	NA	NA	"kudoa"
+"19"	2023	"10011"	30	38052	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	125000	NA	340187	NA	"1"	"F"	9.921	NA	27	27	27	"2"	NA	NA	NA	NA	NA	"kudoa"
+"19"	2023	"10011"	30	38053	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	130000	NA	283820	NA	"1"	"F"	12.367	NA	27	27	27	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38054	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	70000	NA	165338	NA	"1"	"F"	6.774	NA	16	16	16	"2"	NA	NA	NA	NA	NA	"kudoa"
+"19"	2023	"10011"	30	38055	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	4e+05	NA	1026654	NA	"1"	"F"	10.13	NA	26	26	26	"2"	NA	NA	NA	NA	NA	"kudoa"
+"19"	2023	"10011"	30	38056	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	250000	NA	539614	NA	"1"	"F"	7.876	NA	17	17	17	"2"	NA	NA	NA	NA	NA	"kudoa-sampling"
+"19"	2023	"10011"	30	38056	2	"sild'G07"	"161722.G05"	1	"126417"	NA	NA	NA	NA	NA	"1"	"1"	NA	500	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38057	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	152000	NA	384658	NA	"1"	"F"	12.645	NA	32	32	32	"2"	NA	NA	NA	NA	NA	"kudoa-sampling"
+"19"	2023	"10011"	30	38058	1	"sild'G07"	"161722.G05"	1	"126417"	NA	NA	NA	NA	NA	"1"	"1"	NA	100	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38058	2	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	270000	NA	655658	NA	"1"	"F"	12.354	NA	30	30	30	"3"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38059	1	"sild'G07"	"161722.G05"	1	"126417"	NA	NA	NA	NA	NA	"1"	"1"	NA	200	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38059	2	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	605000	NA	1346557	NA	"1"	"F"	7.638	NA	17	17	17	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38060	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	120000	NA	278293	NA	"1"	"F"	8.624	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38061	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	105000	NA	244891	NA	"1"	"F"	9.004	NA	21	21	21	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38062	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	225000	NA	464472	NA	"1"	"F"	9.204	NA	19	19	19	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38063	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	1e+05	NA	201267	NA	"1"	"F"	13.415	NA	27	27	27	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38064	1	"sild'G07"	"161722.G05"	1	"126417"	NA	NA	NA	NA	NA	"1"	"1"	NA	10000	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38064	2	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	245000	NA	461925	NA	"1"	"F"	9.547	NA	18	18	18	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38065	1	"sild'G07"	"161722.G05"	1	"126417"	NA	NA	NA	NA	NA	"1"	"1"	NA	3000	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38065	2	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"23"	NA	"2"	"1"	NA	6e+05	NA	1352592	NA	"1"	"F"	11.977	NA	27	27	27	"3"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38065	3	"kolmule"	"164774"	1	"126439"	NA	NA	NA	NA	NA	"1"	"1"	NA	1500	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38066	1	"sild'G07"	"161722.G05"	1	"126417"	NA	NA	NA	NA	NA	"1"	"1"	NA	5000	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38066	2	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	770000	NA	1866828	NA	"1"	"F"	11.549	NA	28	28	28	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38067	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	230000	NA	456765	NA	"1"	"F"	12.085	NA	24	24	24	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38074	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"23"	NA	"2"	"1"	NA	490000	NA	1014397	NA	"1"	"F"	10.627	NA	22	22	22	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38075	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"23"	NA	"2"	"1"	NA	330000	NA	741573	NA	"1"	"F"	9.345	NA	21	21	21	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38076	1	"sild'G07"	"161722.G05"	1	"126417"	NA	NA	NA	NA	NA	"1"	"1"	NA	200	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38076	2	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"23"	NA	"2"	"1"	NA	84800	NA	189096	NA	"1"	"F"	8.969	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"19"	2023	"10011"	30	38077	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	555000	NA	1095665	NA	"1"	"F"	12.157	NA	24	24	24	"2"	NA	NA	NA	NA	NA	"Kudoaprøve tatt"
+"19"	2023	"10011"	30	38078	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	135000	NA	256126	NA	"1"	"F"	6.325	NA	12	12	12	"2"	NA	NA	NA	NA	NA	"Kudoaprøve  tatt"
+"19"	2023	"10011"	30	38079	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"20"	NA	"2"	"1"	NA	55000	NA	133400	NA	"1"	"F"	7.009	NA	17	17	17	"2"	NA	NA	NA	NA	NA	"Kudoaprøve tatt"
+"19"	2023	"10011"	30	38080	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"23"	NA	"2"	"1"	NA	85000	NA	169444	NA	"1"	"F"	12.541	NA	25	25	25	"2"	NA	NA	NA	NA	NA	"kudoa"
+"19"	2023	"10011"	30	38081	1	"makrell"	"172414"	1	"127023"	"Scomber scombrus"	NA	NA	"23"	NA	"2"	"1"	NA	245000	NA	562111	NA	"1"	"F"	12.204	NA	28	28	28	"2"	NA	NA	NA	NA	NA	"kudoa"

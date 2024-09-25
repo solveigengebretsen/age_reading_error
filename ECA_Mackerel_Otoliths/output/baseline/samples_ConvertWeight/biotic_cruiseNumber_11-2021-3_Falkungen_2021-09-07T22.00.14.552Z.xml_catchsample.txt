@@ -1,0 +1,11 @@
+"missiontype"	"startyear"	"platform"	"missionnumber"	"serialnumber"	"catchsampleid"	"commonname"	"catchcategory"	"catchpartnumber"	"aphia"	"scientificname"	"identification"	"foreignobject"	"sampletype"	"group"	"conservation"	"catchproducttype"	"raisingfactor"	"catchweight"	"catchvolume"	"catchcount"	"abundancecategory"	"sampleproducttype"	"lengthmeasurement"	"lengthsampleweight"	"lengthsamplevolume"	"lengthsamplecount"	"specimensamplecount"	"agesamplecount"	"agingstructure"	"parasite"	"stomach"	"intestine"	"tissuesample"	"samplerecipient"	"catchcomment"
+"11"	2021	"9553"	3	99555	4	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	NA	"26"	"1"	"1"	NA	2	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	3	99570	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	NA	"26"	"1"	"1"	NA	12	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	3	99571	2	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	NA	"26"	"1"	"1"	NA	3	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	3	99572	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	NA	"26"	"1"	"1"	NA	68	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	3	99574	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	NA	"26"	"1"	"1"	NA	449	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	3	99575	6	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	NA	"26"	"1"	"1"	NA	33	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	3	99578	2	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	NA	"26"	"1"	"1"	NA	15	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	3	99581	2	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	NA	"26"	"1"	"1"	NA	2	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	3	99582	2	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	NA	"26"	"1"	"1"	NA	1163	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	3	99584	2	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	NA	"26"	"1"	"1"	NA	5	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA

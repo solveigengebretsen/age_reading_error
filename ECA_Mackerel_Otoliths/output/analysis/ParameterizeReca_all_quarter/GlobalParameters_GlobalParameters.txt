@@ -1,0 +1,2 @@
+"lengthresCM"	"maxlength"	"minage"	"maxage"	"age.error"	"CC"	"CCerror"	"nSamples"	"burnin"	"lgamodel"	"resultdir"	"fitfile"	"predictfile"	"thin"	"delta.age"	"seed"
+1	340	1	15	FALSE	FALSE	FALSE	400	4000	"log-linear"	"C:\Users\Administrator\Documents\temp\ecatest"	"fit.20240209.141843.516575"	"pred.20240209.141843.516575"	10	0.001	2023

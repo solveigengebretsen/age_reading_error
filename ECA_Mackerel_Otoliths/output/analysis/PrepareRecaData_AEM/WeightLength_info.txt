@@ -1,0 +1,4 @@
+"covariate"	"random"	"CAR"	"continuous"	"in.landings"	"nlev"	"interaction"	"in.slopeModel"
+"constant"	0	0	0	1	1	0	1
+"Quarter"	1	0	0	1	4	0	0
+"Stratum"	1	0	0	1	5	0	0

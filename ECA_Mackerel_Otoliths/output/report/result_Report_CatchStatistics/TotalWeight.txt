@@ -1,0 +1,2 @@
+"TotalWeight"	"SD"	"Low"	"High"
+111	0	111	111

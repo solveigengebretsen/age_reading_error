@@ -1,0 +1,2 @@
+"missiontype"	"startyear"	"platform"	"missionnumber"	"missiontypename"	"callsignal"	"platformname"	"cruise"	"missionstartdate"	"missionstopdate"	"purpose"
+"11"	2021	"9553"	2	"Prøvebåt"	"LNXR"	"Falkungen"	NA	"2021-04-08Z"	"2021-05-12Z"	"Prøvetaking av landinger på fiskemottak i Nord Norge"

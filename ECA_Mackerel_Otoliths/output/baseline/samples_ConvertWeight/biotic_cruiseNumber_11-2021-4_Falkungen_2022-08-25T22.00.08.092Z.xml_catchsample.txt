@@ -1,0 +1,36 @@
+"missiontype"	"startyear"	"platform"	"missionnumber"	"serialnumber"	"catchsampleid"	"commonname"	"catchcategory"	"catchpartnumber"	"aphia"	"scientificname"	"identification"	"foreignobject"	"sampletype"	"group"	"conservation"	"catchproducttype"	"raisingfactor"	"catchweight"	"catchvolume"	"catchcount"	"abundancecategory"	"sampleproducttype"	"lengthmeasurement"	"lengthsampleweight"	"lengthsamplevolume"	"lengthsamplecount"	"specimensamplecount"	"agesamplecount"	"agingstructure"	"parasite"	"stomach"	"intestine"	"tissuesample"	"samplerecipient"	"catchcomment"
+"11"	2021	"9553"	4	99585	1	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	1351	NA	353	NA	"1"	"E"	76.465	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99586	2	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	1234	NA	205	NA	"1"	"E"	120.58	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99587	2	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	737	NA	242	NA	"1"	"E"	60.95	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99588	1	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	755	NA	228	NA	"1"	"E"	66.2	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99589	1	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	1714	NA	368	NA	"1"	"E"	93.12	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99590	1	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	1739	NA	388	NA	"1"	"E"	89.53	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99591	1	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	1187	NA	267	NA	"1"	"E"	89.08	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99592	1	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	676	NA	140	NA	"1"	"E"	96.46	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99593	1	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	1109	NA	264	NA	"1"	"E"	84.09	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99594	1	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	1623	NA	402	NA	"1"	"E"	80.69	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99595	1	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	1321	NA	233	NA	"1"	"E"	113.4	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99596	1	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	1542	NA	411	NA	"1"	"E"	75.06	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99597	1	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	109006	NA	79770	NA	"1"	"E"	27.33	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99598	1	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	124801	NA	78393	NA	"1"	"E"	31.84	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99599	1	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	59327	NA	37371	NA	"1"	"E"	31.75	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99600	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	4903.2	NA	2081	NA	"1"	"E"	47.1285	NA	20	20	20	"2"	NA	NA	NA	NA	NA	"sløyd m.hode"
+"11"	2021	"9553"	4	99601	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	3662.55	NA	1624	NA	"1"	"E"	45.1116	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99602	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	22628.7	NA	14205	NA	"1"	"E"	31.86	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99603	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	48739.05	NA	23838	NA	"1"	"E"	40.8915	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99604	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	1310.85	NA	883	NA	"1"	"E"	29.7027	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99607	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	6671.7	NA	3251	NA	"1"	"E"	41.04	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99608	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	NA	"26"	"1"	"1"	NA	13	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99609	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	18589.5	NA	10420	NA	"1"	"E"	35.6805	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99610	1	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	13.42	NA	5	NA	"1"	"E"	13.42	NA	5	5	5	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99611	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	NA	"26"	"1"	"1"	NA	51	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99612	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	NA	"26"	"1"	"1"	NA	9	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99613	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	NA	"26"	"1"	"1"	NA	2	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99614	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	27785	NA	14351	NA	"1"	"E"	38.722	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99615	1	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	22.95	NA	28	NA	"1"	"E"	16.2675	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99617	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	NA	"26"	"1"	"1"	NA	7	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99618	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	NA	"26"	"1"	"1"	NA	2.2	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99619	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	NA	"26"	"1"	"1"	NA	149	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99620	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	NA	"26"	"1"	"1"	NA	405	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99621	2	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	892	NA	308	NA	"1"	"E"	57.95	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA
+"11"	2021	"9553"	4	99622	3	"sei"	"164727"	1	"126441"	"Pollachius virens"	NA	NA	"20"	"26"	"1"	"1"	NA	735	NA	189	NA	"1"	"E"	77.96	NA	20	20	20	"2"	NA	NA	NA	NA	NA	NA

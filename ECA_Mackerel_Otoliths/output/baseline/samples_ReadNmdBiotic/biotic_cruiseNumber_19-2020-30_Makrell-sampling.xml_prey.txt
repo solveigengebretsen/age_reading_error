@@ -1,0 +1,1 @@
+"missiontype"	"startyear"	"platform"	"missionnumber"	"serialnumber"	"catchsampleid"	"specimenid"	"preysampleid"	"preypartnumber"	"preycategory"	"preyforeignobject"	"source"	"preydigestion"	"totalcount"	"weightresolution"	"totalweight"	"interval"	"devstage"	"preylengthmeasurement"

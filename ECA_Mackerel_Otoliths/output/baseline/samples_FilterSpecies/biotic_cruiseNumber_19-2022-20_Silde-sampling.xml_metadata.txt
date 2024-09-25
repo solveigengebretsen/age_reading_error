@@ -1,0 +1,2 @@
+"useXsd"	"file"
+"nmdbioticv3.1"	"C:/Users/floriane/OneDrive - Havforskningsinstituttet/IMR/ECA/2022/StoX_3.5 Test/ECA_Herring_2023_Test/input/biotic/biotic_cruiseNumber_19-2022-20_Silde-sampling.xml"

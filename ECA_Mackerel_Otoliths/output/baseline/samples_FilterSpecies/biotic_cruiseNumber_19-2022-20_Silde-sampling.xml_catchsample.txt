@@ -1,0 +1,36 @@
+"missiontype"	"startyear"	"platform"	"missionnumber"	"serialnumber"	"catchsampleid"	"commonname"	"catchcategory"	"catchpartnumber"	"aphia"	"scientificname"	"identification"	"foreignobject"	"sampletype"	"group"	"conservation"	"catchproducttype"	"raisingfactor"	"catchweight"	"catchvolume"	"catchcount"	"abundancecategory"	"sampleproducttype"	"lengthmeasurement"	"lengthsampleweight"	"lengthsamplevolume"	"lengthsamplecount"	"specimensamplecount"	"agesamplecount"	"agingstructure"	"parasite"	"stomach"	"intestine"	"tissuesample"	"samplerecipient"	"catchcomment"
+"19"	2022	"10024"	20	38401	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"20"	NA	"2"	"1"	NA	270000	NA	1043637	NA	"1"	"E"	9.831	NA	38	38	38	"11"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38402	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"20"	NA	"2"	"1"	NA	130000	NA	510886	NA	"1"	"E"	12.723	NA	50	50	50	"2"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38403	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"20"	NA	"2"	"1"	NA	90000	NA	358337	NA	"1"	"E"	12.558	NA	50	50	50	"11"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38404	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"20"	NA	"2"	"1"	NA	2e+05	NA	804704	NA	"1"	"E"	6.462	NA	26	26	26	"2"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38405	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	350000	NA	2940581	NA	"1"	"E"	9.879	NA	83	83	60	"11"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38406	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	115000	NA	833635	NA	"1"	"E"	11.036	NA	80	80	50	"2"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38407	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	80000	NA	598721	NA	"1"	"E"	7.349	NA	55	55	50	"11"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38408	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	2e+05	NA	1468035	NA	"1"	"E"	12.67	NA	93	93	50	"2"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38409	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	230000	NA	1737945	NA	"1"	"E"	12.837	NA	97	97	50	"2"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38410	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	349700	NA	2803149	NA	"1"	"E"	12.101	NA	97	97	50	"2"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38411	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	690000	NA	2733090	NA	"1"	"E"	13.128	NA	52	52	50	"2"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38412	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	275000	NA	1497386	NA	"1"	"E"	13.774	NA	75	75	60	"11"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38413	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	115000	NA	990676	NA	"1"	"E"	9.867	NA	85	85	60	"11"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38414	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	310000	NA	1237785	NA	"1"	"E"	9.517	NA	38	38	38	"2"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38415	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	165000	NA	1052028	NA	"1"	"E"	7.842	NA	50	50	50	"2"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38416	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	140000	NA	1013975	NA	"1"	"E"	9.803	NA	71	71	50	"2"	NA	NA	NA	NA	NA	NA
+"19"	2022	"10024"	20	38417	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	120000	NA	950455	NA	"1"	"E"	11.868	NA	94	94	60	"11"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38418	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	293821	NA	2653699	NA	"1"	"E"	6.754	NA	61	61	50	"2"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38419	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	1e+05	NA	738310	NA	"1"	"E"	9.752	NA	72	72	60	"11"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38420	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	49000	NA	307778	NA	"1"	"E"	10.826	NA	68	68	50	"2"	NA	NA	NA	NA	NA	NA
+"19"	2022	"10024"	20	38421	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	140000	NA	1035088	NA	"1"	"E"	7.98	NA	59	59	59	"11"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38422	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	60000	NA	432744	NA	"1"	"E"	13.865	NA	100	100	50	"2"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38423	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	7e+05	NA	5443235	NA	"1"	"E"	12.86	NA	100	100	60	"11"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38424	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	480000	NA	3637588	NA	"1"	"E"	11.876	NA	90	90	50	"2"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38425	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"20"	NA	"2"	"1"	NA	110000	NA	819015	NA	"1"	"E"	3.492	NA	26	26	26	"2"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38426	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	3e+05	NA	2754024	NA	"1"	"E"	7.952	NA	73	73	50	"2"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38427	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	1e+06	NA	7206814	NA	"1"	"E"	9.158	NA	66	66	60	"11"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38428	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	174000	NA	1251380	NA	"1"	"E"	11.958	NA	86	86	50	"2"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38429	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	465000	NA	1798405	NA	"1"	"E"	8.274	NA	32	32	30	"2"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38430	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	140000	NA	1075949	NA	"1"	"E"	11.06	NA	85	85	50	"2"	NA	NA	NA	"1"	NA	"Råtten prøve, derfor ikke tatt kjønn og stadium etc"
+"19"	2022	"10024"	20	38431	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	105000	NA	809804	NA	"1"	"E"	7.65	NA	59	59	57	"11"	NA	NA	NA	NA	NA	"2 siste hadde knekt hode og manglet otolitter"
+"19"	2022	"10024"	20	38432	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	2e+05	NA	2140182	NA	"1"	"E"	9.345	NA	100	100	50	"2"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38433	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	320000	NA	2621447	NA	"1"	"E"	12.207	NA	100	100	60	"11"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38434	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"23"	NA	"2"	"1"	NA	280000	NA	1485172	NA	"1"	"E"	12.443	NA	66	66	50	"2"	NA	NA	NA	"1"	NA	NA
+"19"	2022	"10024"	20	38435	1	"sild'G05"	"161722.G05"	1	"126417"	"Clupea harengus"	NA	NA	"20"	NA	"2"	"1"	NA	174000	NA	775954	NA	"1"	"E"	11.212	NA	50	50	50	"2"	NA	NA	NA	"1"	NA	NA

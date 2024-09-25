@@ -1,0 +1,2 @@
+"useXsd"	"file"
+"nmdbioticv3.1"	"C:/Users/floriane/OneDrive - Havforskningsinstituttet/IMR/ECA/2022/StoX_3.5 Test/Example_StoX_v3.5.2_Reca/input/biotic/biotic_cruiseNumber_11-2021-3_Falkungen_2021-09-07T22.00.14.552Z.xml"

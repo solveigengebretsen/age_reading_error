@@ -1,0 +1,2 @@
+"TotalNumber"	"SD"	"Low"	"High"
+660	9	644	675

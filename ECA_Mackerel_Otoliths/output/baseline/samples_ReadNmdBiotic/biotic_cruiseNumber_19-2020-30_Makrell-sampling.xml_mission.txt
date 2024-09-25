@@ -1,0 +1,2 @@
+"missiontype"	"startyear"	"platform"	"missionnumber"	"missiontypename"	"callsignal"	"platformname"	"cruise"	"missionstartdate"	"missionstopdate"	"purpose"
+"19"	2020	"9000"	30	"Fiskerisampling - Lotteri"	NA	"Kommersielle fartøy"	NA	"2020-01-01Z"	"2020-12-31Z"	NA
