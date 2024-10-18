@@ -94,7 +94,7 @@ lik_full = function(theta){
   alpha0 = theta[3]
   alpha1 = theta[4]
   phi = theta[5]
-  true_age = data_exp$modal_age_closest # data_exp$modal_age_low ## if using the lowest mode as true age
+  true_age =  data_exp$modal_age_closest # data_exp$modal_age_low ## if using the lowest mode as true age
   age = data_exp$age
   weight = data_exp$weight
   totLik = 0
@@ -186,7 +186,7 @@ for(i in min_age:max_age){
 fitted_matrix = fitted_matrix[rowSums(fitted_matrix) != 0, rowSums(fitted_matrix) != 0]
 rownames(fitted_matrix) = min_age:max_age
 colnames(fitted_matrix) = min_age:max_age
-print(xtable(fitted_matrix), type = "latex", file = "M_full_NSAS_2022.tex")
+print(xtable(fitted_matrix), type = "latex", file = "M_best_NSAS_2022_modal_mean.tex")
 
 
 ### Model without age dependency ###
@@ -340,7 +340,7 @@ for(i in min_age:max_age){
 fitted_matrix_b = fitted_matrix_b[rowSums(fitted_matrix_b) != 0, rowSums(fitted_matrix_b) != 0]
 rownames(fitted_matrix_b) = min_age:max_age
 colnames(fitted_matrix_b) = min_age:max_age
-print(xtable(fitted_matrix_b), type = "latex", file = "M_best_NSAS_2022_modal_mean.tex")
+
 
 ### Model without asymmetry ###
 
