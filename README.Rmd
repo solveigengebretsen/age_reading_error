@@ -1,0 +1,19 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# age_reading_error
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+This repository contains code and data for fitting the stock assessment model SAM with age-reading error for scale reading of NSS herring. SAM is implemented in the R package [stockassessment](https://github.com/fishfollower/SAM).  A prototype version (currently found in a [branch](https://github.com/fishfollower/SAM/tree/ageconfusion)) of the software can adjust for age-reading errors. The data and the model configuration have been downloaded from the "NSSherring_1_cwb dataset" at https://www.stockassessment.org.
