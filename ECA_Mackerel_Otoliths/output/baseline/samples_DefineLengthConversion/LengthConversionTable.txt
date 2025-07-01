@@ -1,3 +1,0 @@
-"Description"	"Species"	"MeasurementType"	"Alpha"	"Beta"
-"COD headlength to totallength"	"164712"	"D"	3	3.65
-"POK headlength to totallength"	"164727"	"D"	3	3.9

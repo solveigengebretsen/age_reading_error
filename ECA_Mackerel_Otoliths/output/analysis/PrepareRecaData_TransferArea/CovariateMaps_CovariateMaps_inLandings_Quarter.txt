@@ -1,3 +1,0 @@
-"names"	"values"
-1	"Q3"
-2	"Q4"

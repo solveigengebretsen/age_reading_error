@@ -1,2 +1,0 @@
-"lengthresCM"	"maxlength"	"minage"	"maxage"	"age.error"	"CC"	"CCerror"
-1	340	1	9	TRUE	FALSE	FALSE
